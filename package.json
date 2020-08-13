@@ -1,0 +1,15 @@
+{
+  "name": "myoptum-visual-e2e-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-screener": "screener-runner --conf screener.config.js"
+  },
+  "author": "Bill Meyer",
+  "license": "ISC",
+  "devDependencies": {
+    "screener-runner": "^0.11.5"
+  }
+}
